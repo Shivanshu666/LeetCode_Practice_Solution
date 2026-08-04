@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanshu666/LeetCode_Practice_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3731-find-missing-elements](https://github.com/Shivanshu666/LeetCode_Practice_Solution/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shivanshu666/LeetCode_Practice_Solution/tree/master/0125-valid-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Shivanshu666/LeetCode_Practice_Solution/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Shivanshu666/LeetCode_Practice_Solution/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
