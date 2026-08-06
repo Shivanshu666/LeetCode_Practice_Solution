@@ -20,17 +20,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shivanshu666/LeetCode_Practice_Solution/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Shivanshu666/LeetCode_Practice_Solution/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivanshu666/LeetCode_Practice_Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivanshu666/LeetCode_Practice_Solution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shivanshu666/LeetCode_Practice_Solution/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/Shivanshu666/LeetCode_Practice_Solution/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivanshu666/LeetCode_Practice_Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivanshu666/LeetCode_Practice_Solution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shivanshu666/LeetCode_Practice_Solution/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/Shivanshu666/LeetCode_Practice_Solution/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
